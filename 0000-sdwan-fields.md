@@ -112,7 +112,7 @@ The concerns that might arise relate to how the nested fields could be broken ou
 People
 The following are the people that consulted on the contents of this RFC.
 •	@roopabayar| author
-•	@ [USA] |coauthor
+•	@Mr1716 |coauthor
 •	{insert name here} | sponsor
 References
 
